@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2015 - 2019: PhD, Environmental Engineering ([world ranking #7](http://www.shanghairanking.com/Shanghairanking-Subject-Rankings/environmental-science-engineering.html)), [Technical University of Denmark (DTU)](https://www.env.dtu.dk/english)
+* 2012 - 2015: MSc, Water and Environment, [University of Copenhagen (KU)](https://www.ku.dk/english/) and [University of Chinese Academy of Sciences (UCAS)](http://english.cas.cn/)
+* 2008 - 2012: BSc, Geography, [Nanjing University (NJU)](https://www.nju.edu.cn/en/main.psp)
 
 Work experience
 ======
