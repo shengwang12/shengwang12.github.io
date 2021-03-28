@@ -227,14 +227,14 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  _portfolio
+  # _portfolio
   - scope:
       path: ""
       type: portfolio
     values:
       layout: single
       author_profile: true
-      share: false
+      share: true
       comment: true
   _talks
   - scope:
