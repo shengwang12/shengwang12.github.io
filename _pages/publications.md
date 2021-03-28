@@ -36,7 +36,7 @@ Peer-review publications
 
 11. Wang S, Garcia M, Ibrom A, Jakobsen J, Köppl C, Mallick K, Looms M, Bauer-Gottwein P. (2018). Mapping root-zone soil moisture using a triangle approach with Unmanned Aerial System observations: incorporating roughness length from Structure from Motion. Remote Sensing. 10, 1978. doi: 10.3390/rs10121978.
 
-12 Bandini F, Olesen D, Jakobsen J, Kittel C, Wang S, Garcia M, Bauer-Gottwein P (2018). Bathymetry observations of inland water bodies using a tethered single-beam sonar controlled by an Unmanned Aerial Vehicle. Hydrology and Earth System Science doi: 10.5194/hess-22-4165-2018
+12. Bandini F, Olesen D, Jakobsen J, Kittel C, Wang S, Garcia M, Bauer-Gottwein P (2018). Bathymetry observations of inland water bodies using a tethered single-beam sonar controlled by an Unmanned Aerial Vehicle. Hydrology and Earth System Science doi: 10.5194/hess-22-4165-2018
 
 13. Bandini F, Lopez A, Merediz-Alonso G, Olesen D, Jakobsen J, Wang S, Garcia M, Bauer-Gottwein P (2018). Unmanned Aerial Vehicle observations of bathymetry and water level in the cenotes and lagoons of the Yucatan Peninsula. Hydrogeology Journal. doi:10.1007/s10040-018-1755-9.
 
