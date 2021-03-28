@@ -4,7 +4,6 @@ collection: teaching
 type: "TA"
 permalink: /teaching/teaching-assistant
 venue: "DTU and Sino-Danish Center"
-date: 2019
 ---
 
 * Surface water hydrology (master course at DTU, 2016-2017)
