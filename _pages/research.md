@@ -16,7 +16,8 @@ Postdoc Project at UIUC
 ======
 Towards operational methodologies to monitor crop functional traits using airborne-satellite integrative remote sensing and machine learning
 Adviser: [Dr. Kaiyu Guan](http://faculty.nres.illinois.edu/~kaiyuguan/)
-![Framework to quantify crop traits from airborne hyperspectral remote sensing (ongoing)](https://imgur.com/G4QbxHY)
+
+![Framework to quantify crop traits from airborne hyperspectral remote sensing (ongoing)](https://i.imgur.com/G4QbxHY.png)
 
 PhD Project at DTU
 ======
