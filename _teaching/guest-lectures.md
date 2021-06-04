@@ -4,6 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/guest-lectures
 venue: "UIUC, DTU"
+date: 2019-01-01
 ---
 
 * *Terrestrial Remote Sensing Applications* (UIUC NRES-598, Year 2019, 2021)
