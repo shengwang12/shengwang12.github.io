@@ -15,6 +15,7 @@ In the past years, I have designed and tested operational unmanned/manned airbor
 # NEWS
 ## 2021
 + UIUC National Center for supercomputing applications Bluewaters supercomputing funding [“High-performance supercomputing for airborne hyperspectral imagery processing”](https://bluewaters.ncsa.illinois.edu/science-teams?page=detail&psn=bbdv).
++ [Top Reviewer for *Remote Sensing of Environment* in calendar year 2020](https://www.journals.elsevier.com/remote-sensing-of-environment/news/appreciation-for-the-reviewers-of-rse-for-the-calendar-year) (No. 1 journal in the remote sensing disciplinary)
 
 ## 2020
 + First-author paper on [Unique contributions of chlorophyll and nitrogen to predict crop photosynthetic capacity from leaf spectroscopy](https://academic.oup.com/jxb/article/72/2/341/5906627) has been published on Journal of Experimental Botany.
