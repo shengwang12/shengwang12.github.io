@@ -30,7 +30,7 @@ Peer-reviewed Publications
 14. Christian, K., Bandini, F., Wang, S., Garcia, M., Bauer-Gottwein, P., Applying drones for thermal detection of contaminated groundwater influx (Grindsted Å). Appendix in Anvendelse af drone til termisk kortlægning af forureningsudstrømning. *Report of Drone System* (Henrik Grosen, Sune Nielsen), edited by Miljøstyrelsen. 2016.
 15. Qiu, J., Gao, Q., Wang, S. and Su, Z., 2016. Comparison of temporal trends from multiple soil moisture data sets and precipitation: The implication of irrigation on regional soil moisture trend. *International journal of applied earth observation and geoinformation*, *48*, pp.17-27.
 16. Mo, X., Liu, S., Lin, Z., Wang, S. and Hu, S., 2015. Trends in land surface evapotranspiration across China with remotely sensed NDVI and climatological data for 1981–2010. *Hydrological Sciences Journal*, *60*(12), pp.2163-2177.
-17. Zhen-Ya, S.O.N.G., Ying, B.A.O. and Fang-Li, Q.I.A.O., 2019. Introduction of FIO-ESM v2. 0 and its participation plan in CMIP6 experiments. *Advances in Climate Change Research*, *15*(5), p.558.
+17. Liu S, Ding W, Mo X, Wang S, Liu C, Luo X, He D, Bajracharya S, Shrestha A, Agrawal N (2017). Climate Change and Its Impact on Runoff in Lancang and Nujiang River Basins. *Advances in Climate Change Research*. *13*(4): 356-365. https://doi.org/10.12006/j.issn.1673-1719.2016.212
 18. Liu, S., Wang, S., Wang, Y., Li, M., Huang, M., Peng, G., Xiao, Z., 2014. Exploring the relationship between polar motion and runoff. *Advances in Meteorological Science and Technology.* *4*(3):6-12. https://doi.org/10.3969/j.issn.2095-1973.2014.03.001
 
 
