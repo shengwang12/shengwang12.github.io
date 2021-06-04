@@ -13,6 +13,8 @@ I am a research scientist in [University of Illinois at Urbana-Champaign (UIUC)]
 In the past years, I have designed and tested operational unmanned/manned airborne based monitoring systems to map very high spatial resolution (<1 meter) ecosystem functional traits, nutrients, productivity, water use, soil moisture, energy budget and water use efficiency. Along with sensing techniques, I also use process-based models, machine learning algorithms and field measurements to advance the understanding of key ecohydrological processes across spatial and temporal scales in agricultural and natural ecosystems. Before joining UIUC, I received a Ph.D. degree in environmental engineering from [Technical University of Denmark (DTU)](https://www.env.dtu.dk/english) in 2019.
 
 # NEWS
+## 2021
++ UIUC National Center for supercomputing applications Bluewaters supercomputing funding [“High-performance supercomputing for airborne hyperspectral imagery processing”](https://bluewaters.ncsa.illinois.edu/science-teams?page=detail&psn=bbdv).
 ## 2020
 + First-author paper on [Unique contributions of chlorophyll and nitrogen to predict crop photosynthetic capacity from leaf spectroscopy](https://academic.oup.com/jxb/article/72/2/341/5906627) has been published on Journal of Experimental Botany.
 + One coauthored paper on [A daily, 250 m, and real-time gross primary productivity product (2000–present) covering the Contiguous United States](https://essd.copernicus.org/articles/13/281/2021/essd-13-281-2021-discussion.html) has been published on Earth System Science Data.
