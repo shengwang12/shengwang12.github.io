@@ -41,9 +41,9 @@ Education
 
 Professional Experiences
 ======
-2019  - 2020: Postdoc researcher, Institute for Sustainability, Energy, and Environment, UIUC
-2021 - Present: Research Scientist, Institute for Sustainability, Energy, and Environment, UIUC
-2021 - Present: Research Assitant Professor, Department of Natural Resources and Environmental Sciences,  UIUC
+* 2019  - 2020: Postdoc researcher, Institute for Sustainability, Energy, and Environment, UIUC
+* 2021 - Present: Research Scientist, Institute for Sustainability, Energy, and Environment, UIUC
+* 2021 - Present: Research Assitant Professor, Department of Natural Resources and Environmental Sciences,  UIUC
 
 
 Selected Awards
