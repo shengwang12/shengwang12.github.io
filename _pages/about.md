@@ -13,7 +13,7 @@ I am a Research Assistant Professor at [Department of Natural Resources and Envi
 In the past years, I have designed and tested operational manned/unmanned airborne based monitoring systems to map very high spatial resolution (<1 meter) ecosystem functional traits, nutrients, productivity, water use, soil moisture, energy budget and water use efficiency. Along with sensing techniques, I also use process-based models, machine learning algorithms and field measurements to advance the understanding of key ecohydrological processes across spatial and temporal scales in agricultural and natural ecosystems. Before joining UIUC, I received a Ph.D. degree in environmental engineering from Technical University of Denmark (DTU) in 2019.
 
 # Research Interest
-Crop monitoring, Remote Sensing, Manned/Unmanned Airborne Systems, Hyperspectral, Thermal, Solar-induced fluorescence, Machine learning, Ecosystem modeling, Radiative transfer modeling, Digital Agriculture, Eco-hydrology, Precision Farming
+Agroecosystem monitoring, Remote Sensing, Manned/Unmanned Airborne Systems, Imaging Spectroscopy, Thermal, Machine learning, Ecosystem modeling, Radiative transfer modeling, Eco-hydrology, Regenerative Agriculture
 
 Education
 ======
