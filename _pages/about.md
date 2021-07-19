@@ -12,6 +12,9 @@ I am a research scientist in [University of Illinois at Urbana-Champaign (UIUC)]
 
 In the past years, I have designed and tested operational unmanned/manned airborne based monitoring systems to map very high spatial resolution (<1 meter) ecosystem functional traits, nutrients, productivity, water use, soil moisture, energy budget and water use efficiency. Along with sensing techniques, I also use process-based models, machine learning algorithms and field measurements to advance the understanding of key ecohydrological processes across spatial and temporal scales in agricultural and natural ecosystems. Before joining UIUC, I received a Ph.D. degree in environmental engineering from Technical University of Denmark (DTU) in 2019.
 
+# Research Interest
+Crop monitoring, Remote Sensing, Unmanned/Manned Airborne Systems, Hyperspectral, Thermal, Solar-induced fluorescence, Machine learning, Ecosystem modeling, Radiative transfer modeling, Digital Agriculture, Eco-hydrology, Precision Farming
+
 # NEWS
 ## 2021
 + [Top Reviewer for *Remote Sensing of Environment* in calendar year 2020](https://www.journals.elsevier.com/remote-sensing-of-environment/news/appreciation-for-the-reviewers-of-rse-for-the-calendar-year) (No. 1 journal in the remote sensing disciplinary)
