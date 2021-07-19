@@ -33,8 +33,6 @@ Crop monitoring, Remote Sensing, Unmanned/Manned Airborne Systems, Hyperspectral
 + First-author paper on [improving UAV multispectral mapping under low and variable irradiance conditions](https://www.sciencedirect.com/science/article/abs/pii/S0924271619301583) has been published on ISPRS Journal of Photogrammetry and Remote Sensing.
 + First-author paper on [high spatial resolution mapping land surface energy, water and CO2 fluxes from an unmanned aerial system](https://www.sciencedirect.com/science/article/abs/pii/S0034425719301312) has been published on Remote Sensing of Environment.
 
-# CV
-
 Education
 ======
 * 2015 - 2019: PhD, Environmental Engineering ([world ranking #7](http://www.shanghairanking.com/Shanghairanking-Subject-Rankings/environmental-science-engineering.html)), [Technical University of Denmark (DTU)](https://www.env.dtu.dk/english)
