@@ -21,12 +21,11 @@ Education
 * 2012 - 2015: MSc, Water and Environment, [University of Copenhagen (KU)](https://www.ku.dk/english/) and [University of Chinese Academy of Sciences (UCAS)](http://english.cas.cn/)
 * 2008 - 2012: BSc, Geography, [Nanjing University (NJU)](https://www.nju.edu.cn/en/main.psp)
 
-Professional Experiences
+Professional Experience
 ======
-* 2019  - 2020: Postdoc researcher, Institute for Sustainability, Energy, and Environment, UIUC
-* 2021 - Present: Research Scientist, Institute for Sustainability, Energy, and Environment, UIUC
 * 2021 - Present: Research Assitant Professor, Department of Natural Resources and Environmental Sciences,  UIUC
-
+* 2021 - Present: Research Scientist, Institute for Sustainability, Energy, and Environment, UIUC
+* 2019  - 2020: Postdoc researcher, Institute for Sustainability, Energy, and Environment, UIUC
 
 Selected Awards
 ======
