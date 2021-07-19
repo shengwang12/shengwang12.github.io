@@ -1,20 +1,20 @@
 # main links links
 main:
 
-  - title: "Curriculum Vitae"
-    url: /cv/
+#   - title: "Curriculum Vitae"
+#     url: /cv/
     
-  - title: "Research"
-    url: /research/
+#   - title: "Research"
+#     url: /research/
     
-  - title: "Publications"
-    url: /publications/
+#   - title: "Publications"
+#     url: /publications/
 
 #   - title: "Talks"
 #     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#   - title: "Teaching"
+#     url: /teaching/    
     
 #   - title: "Portfolio"
 #     url: /portfolio/
