@@ -38,10 +38,6 @@ Journal Reviewer
 ======
 Remote Sensing of Environment, Biogeoscience, Nature Scientific Report, Journal of Hydrology, European Journal of Agronomy, Precision Agriculture, Ecological applications ,Remote Sensing, Forests, Atmosphere, Electronics, Applied Sciences
 
-Conference Contributions
-======
-8 poster presentations, 5 oral presentations (e.g. American Geophysical Union Assembly, European Geoscience Union Assembly, International Association of Hydrological Sciences Assembly)
-
 Academic Associations
 ======
 * Member of International Association of Hydrological Sciences
@@ -49,13 +45,3 @@ Academic Associations
 * Member of American Geophysical Union
 * Member of IEEE Geoscience & Remote Sensing Society
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Others
-======
-* American Geophysical Union (AGU) Fall Meeting Outstanding Student Paper Award (OSPA) judge (2019)
-* Licensed pilot to fly drones less than 25 kg over populated areas (Denmark)
