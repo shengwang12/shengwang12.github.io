@@ -44,14 +44,6 @@ Journal Reviewer
 ======
 Remote Sensing of Environment, Biogeoscience, Nature Scientific Report, Journal of Hydrology, European Journal of Agronomy, Precision Agriculture, Ecological applications ,Remote Sensing, Forests, Atmosphere, Electronics, Applied Sciences
 
-Academic Associations
-======
-* Member of International Association of Hydrological Sciences
-* Member of European Geoscience Union
-* Member of American Geophysical Union
-* Member of IEEE Geoscience & Remote Sensing Society
-
-
 Peer-reviewed Publications
 ======
 
