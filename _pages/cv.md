@@ -34,20 +34,9 @@ Selected Awards
 * 2015, Graduation with honors, Institute of Geographic Sciences and Natural Resources (IGSNRR), CAS (1% of all graduate students at IGSNRR)
 * 2015, Dean's scholarship, IGSNRR, CAS (5% of all graduate students at IGSNRR)
 
-Journal Reviewer: (53 manuscripts)
+Journal Reviewer
 ======
-* Remote Sensing of Environment (16)
-* Biogeoscience (2)
-* Nature Scientific Report (1)
-* Journal of Hydrology (2)
-* European Journal of Agronomy (2)
-* Precision Agriculture (1)
-* Ecological applications (1)
-* Remote Sensing (15)
-* Forests (4)
-* Atmosphere (3)
-* Electronics (4)
-* Applied Sciences (2)
+Remote Sensing of Environment, Biogeoscience, Nature Scientific Report, Journal of Hydrology, European Journal of Agronomy, Precision Agriculture, Ecological applications ,Remote Sensing, Forests, Atmosphere, Electronics, Applied Sciences
 
 Conference Contributions
 ======
