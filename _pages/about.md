@@ -29,7 +29,7 @@ Professional Experience
 
 Selected Awards
 ======
-* 2020, [Top Reviewer for *Remote Sensing of Environment*](https://www.journals.elsevier.com/remote-sensing-of-environment/news/appreciation-for-the-reviewers-of-rse-for-the-calendar-year) (No. 1 journal in the remote sensing disciplinary)
+* 2020, [Top Reviewer for *Remote Sensing of Environment*](https://www.journals.elsevier.com/remote-sensing-of-environment/news/appreciation-for-the-reviewers-of-rse-for-the-calendar-year)
 * 2019, [Young Researcher Award](https://www.env.dtu.dk/english/about/news/2019/12/sheng-wang?id=5339e508-c910-4184-a945-f4173979f03c), DTU (one of five recipients among DTU all PhD students)
 * 2019, [Outstanding Self-finance Student Abroad](https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self_finance_students_abroad), Ministry of Education, China (one of five hundred recipients among Chinese self-finance PhD students aboard)
 * 2018, European Union COST action travel grant to University of Twente
