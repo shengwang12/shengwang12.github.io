@@ -12,7 +12,7 @@ I am a Research Scientist at Agroecosystem Sustainability Center (ASC) led by [P
 
 In the past years, I have designed and tested operational manned/unmanned airborne based monitoring systems to map high resolution ecosystem functional traits, nutrients, productivity, water use, soil moisture, energy budget and water use efficiency. Along with sensing techniques, I also use process-based models, machine learning algorithms and field measurements to advance the understanding of key ecohydrological processes across spatial and temporal scales in agricultural and natural ecosystems. Before joining UIUC, I received a Ph.D. degree in environmental engineering from Technical University of Denmark (DTU) in 2019.
 
-Recruitment: We are recruiting highly motivated Ph.D. students and postdocs with full supports in the coming year. Details are available right now: ![*HERE*](https://shengwang12.github.io/files/Jobadvertisement.pdf).
+Recruitment: We are recruiting highly motivated Ph.D. students and postdocs with full supports in the coming year. Details are available right now: [*HERE*](https://shengwang12.github.io/files/Jobadvertisement.pdf).
 
 # Research Interest
 Agroecosystem Monitoring, Remote Sensing, Manned/Unmanned Airborne Systems, Imaging Spectroscopy, Machine Learning, Ecosystem Modeling, Radiative Transfer modeling, Eco-hydrology, Regenerative Agriculture
