@@ -45,7 +45,7 @@ Selected Awards
 
 Journal Reviewer
 ======
-Remote Sensing of Environment, Biogeoscience, Nature Scientific Report, Journal of Hydrology, European Journal of Agronomy, Precision Agriculture, Ecological applications ,Remote Sensing, Forests, Atmosphere, Electronics, Applied Sciences, Journal of Hydrometeorology
+_Remote Sensing of Environment_, _Biogeoscience_, _Nature Scientific Report_, _Journal of Hydrology_, _European Journal of Agronomy_, _Precision Agriculture_, _Ecological applications_,_Remote Sensing_, _Forests_, _Atmosphere_, _Electronics_, _Applied Sciences_, _Journal of Hydrometeorology_
 
 Peer-reviewed Publications
 ======
