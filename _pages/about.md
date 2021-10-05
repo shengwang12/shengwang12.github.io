@@ -20,8 +20,8 @@ Agroecosystem Monitoring, Remote Sensing, Manned/Unmanned Airborne Systems, Imag
 Education
 ======
 * 2015 - 2019: PhD, Environmental Engineering ([world ranking #7](http://www.shanghairanking.com/rankings/gras/2019/RS0216)), [Technical University of Denmark (DTU)](https://www.env.dtu.dk/english)
-* 2012 - 2015: MSc, Water and Environment, University of Copenhagen (KU)
-* 2012 - 2015: MSc, Geography, University of Chinese Academy of Sciences (UCAS)
+* 2012 - 2015: MSc, Water and Environment, [University of Copenhagen (KU)](https://www.ku.dk/english/)
+* 2012 - 2015: MSc, Geography, [University of Chinese Academy of Sciences (UCAS)](https://english.cas.cn/)
 * 2008 - 2012: BSc, Geography, [Nanjing University (NJU)](https://www.nju.edu.cn/en/main.psp)
 
 Professional Experience
