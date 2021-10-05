@@ -72,4 +72,4 @@ Peer-reviewed Publications
 2. Liu, S., Wang, S., Wang, Y., Li, M., Huang, M., Peng, G., Xiao, Z., 2014. Exploring the relationship between polar motion and runoff. Advances in Meteorological Science and Technology. 4(3):6-12. https://doi.org/10.3969/j.issn.2095-1973.2014.03.001.
 1. WANG, S. and LIU, S., 2013. Exploring the relationship between polar motion and a natural river’s runoff based on Granger causality. IAHS-AISH publication, 360, pp.131-138. https://dio.org/iahs.info.15559.25-131-138-360-22.
 
-Updated on July 22, 2021
+Updated on October 4, 2021
