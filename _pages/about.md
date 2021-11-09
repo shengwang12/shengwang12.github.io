@@ -33,15 +33,15 @@ Professional Experience
 Selected Awards
 ======
 * 2020, [Top Reviewer for *Remote Sensing of Environment*](https://www.journals.elsevier.com/remote-sensing-of-environment/news/appreciation-for-the-reviewers-of-rse-for-the-calendar-year)
-* 2019, [Young Researcher Award](https://www.env.dtu.dk/english/about/news/2019/12/sheng-wang?id=5339e508-c910-4184-a945-f4173979f03c), DTU (one of five recipients among DTU all PhD students)
-* 2019, [Outstanding Self-finance Student Abroad](https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self_finance_students_abroad), Ministry of Education, China (one of five hundred recipients among Chinese self-finance PhD students aboard)
+* 2019, [Young Researcher Award](https://www.env.dtu.dk/english/about/news/2019/12/sheng-wang?id=5339e508-c910-4184-a945-f4173979f03c), DTU
+* 2019, [Outstanding Self-finance Student Abroad](https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self_finance_students_abroad), Ministry of Education, China
 * 2018, European Union COST action travel grant to University of Twente
 * 2017, Otto Moensted travel grant, Denmark 
 * 2016, European Union COST action travel grant to Spanish National Research Council
-* 2015, Graduation with honors, Beijing Municipality (1% of all graduate students at Beijing)
-* 2015, Graduation with honors, CAS (1% all graduate students at CAS)
-* 2015, Graduation with honors, Institute of Geographic Sciences and Natural Resources (IGSNRR), CAS (1% of all graduate students at IGSNRR)
-* 2015, Dean's scholarship, IGSNRR, CAS (5% of all graduate students at IGSNRR)
+* 2015, Graduation with honors, Beijing Municipality
+* 2015, Graduation with honors, CAS
+* 2015, Graduation with honors, Institute of Geographic Sciences and Natural Resources (IGSNRR), CAS
+* 2015, Dean's scholarship, IGSNRR, CAS
 
 Journal Reviewer
 ======
