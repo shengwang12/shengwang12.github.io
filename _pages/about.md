@@ -49,9 +49,9 @@ _Remote Sensing of Environment_, _Biogeoscience_, _Nature Scientific Report_, _J
 
 Peer-reviewed Publications
 ======
-
+22. **Wang, S**, Guan, K., Wang, Z., Ainsworth, E.A., Zheng, T., Townsend, P.A., Liu, N., Nafziger, E.D., Masters, M.D., Li, K., Wu G, Jiang C. (2021) Airborne hyperspectral imaging of nitrogen deficiency on crop traits and yield of maize by machine learning and radiative transfer modeling. _International Journal of Applied Earth Observation and Geoinformation_. 
 21. Köppl, C.J., Malureanu, R., Dam-Hansen, C., **Wang, S.**, Jin, H., Barchiesi, S., Sandí, J.M.S., Muñoz-Carpena, R., Johnson, M., Durán-Quesada, A.M. et al. 2021. Hyperspectral Reflectance Measurements from UAS under Intermittent Clouds: Correcting Irradiance Measurements for Sensor Tilt. _Remote Sensing of Environment_. https://doi.org/10.1016/j.rse.2021.112719
-20. Acharya, B.S., Bhandari, M., Bandini, F., Pizarro, A., Perks, M., Joshi, D.R., **Wang, S.** et al. (2021). Unmanned Aerial Systems in Hydrology and Water Resource Management: Applications, Challenges and Perspectives. _Water Resources Research_.
+20. Acharya, B.S., Bhandari, M., Bandini, F., Pizarro, A., Perks, M., Joshi, D.R., **Wang, S.** et al. (2021). Unmanned Aerial Systems in Hydrology and Water Resource Management: Applications, Challenges and Perspectives. _Water Resources Research_. https://doi.org/10.1029/2021WR029925
 19. Li, K., Guan, K., Jiang, C., **Wang, S.**, Peng, B. and Cai, Y., 2021. Evaluation of four new land surface temperature (LST) products in the US Corn Belt: ECOSTRESS, GOES-R, Landsat, and Sentinel-3. _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_.
 18. Jiang, C., Guan, K., Wu, G., Peng, B. and **Wang, S.**, 2021. A daily, 250 m and real-time gross primary productivity product (2000–present) covering the contiguous United States. _Earth System Science Data_, 13(2), pp.281-298. https://doi.org/10.5194/essd-2020-36.
 17. **Wang, S.**, Guan, K., Wang, Z., Ainsworth, E.A., Zheng, T., Townsend, P.A., Li, K., Moller, C., Wu, G. and Jiang, C., 2021. Unique contributions of chlorophyll and nitrogen to predict crop photosynthetic capacity from leaf spectroscopy. _Journal of Experimental Botany_, 72(2), pp.341-354. https://doi.org/10.1093/jxb/eraa432.
@@ -72,4 +72,4 @@ Peer-reviewed Publications
 2. Liu, S., **Wang, S.**, Wang, Y., Li, M., Huang, M., Peng, G., Xiao, Z., 2014. Exploring the relationship between polar motion and runoff. _Advances in Meteorological Science and Technology_. 4(3):6-12. https://doi.org/10.3969/j.issn.2095-1973.2014.03.001.
 1. **Wang, S.** and LIU, S., 2013. Exploring the relationship between polar motion and a natural river’s runoff based on Granger causality. _IAHS-AISH publication_, 360, pp.131-138. https://dio.org/iahs.info.15559.25-131-138-360-22.
 
-Updated on October 4, 2021
+Updated on November 9, 2021
