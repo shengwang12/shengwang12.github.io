@@ -49,7 +49,7 @@ _Remote Sensing of Environment_, _Biogeoscience_, _Nature Scientific Report_, _J
 
 Peer-reviewed Publications
 ======
-22. **Wang, S.**, Guan, K., Zhang, C., Lee, D., Margenot, A, J., Ge, Y., Peng, J., Zhou, W., Zhou, Q., and Huang, Y. 2022. Using soil library heperspectral reflectance and machine learning to predict soil organic carbon: assessing potential of airborn and spaceborne optical soil sensing. _Remote Sensing of Environment_.
+22. **Wang, S.**, Guan, K., Zhang, C., Lee, D., Margenot, A, J., Ge, Y., Peng, J., Zhou, W., Zhou, Q., and Huang, Y. 2022. Using soil library heperspectral reflectance and machine learning to predict soil organic carbon: assessing potential of airborne and spaceborne optical soil sensing. _Remote Sensing of Environment_.
 23. Potash, E., Guan, K., Margenot, A., Lee, D., Delucia, E., **Wang, S.**, and Jang, C. 2022. How to estimate soil organic carbon stocks of agricultural fields? Perspectives using ex ante evaluation. _Geodema_. https://doi.org/10.1016/j.geoderma.2021.115693
 24. Wu, J., Ainsworth, E.A., **Wang, S**., Guan, K., He. J., 2021. Adaptive Transfer Learning for Plant Phenotyping. MLCAS.
 25. **Wang, S**, Guan, K., Wang, Z., Ainsworth, E.A., Zheng, T., Townsend, P.A., Liu, N., Nafziger, E.D., Masters, M.D., Li, K., Wu, G., Jiang, C. 2021. Airborne hyperspectral imaging of nitrogen deficiency on crop traits and yield of maize by machine learning and radiative transfer modeling. _International Journal of Applied Earth Observation and Geoinformation_. https://doi.org/10.1016/j.jag.2021.102617
