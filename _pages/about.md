@@ -47,7 +47,7 @@ Journal Reviewer
 ======
 _Proceedings of the National Academy of Sciences of the United States of America, Remote Sensing of Environment, Nature Scientific Report, Agricultural and Forest Meteorology, Journal of Experimental Botany, The Plant Journal, Biogeosciences, Precision Agriculture, Ecological Applications, European Journal of Agronomy, European Journal of Remote Sensing, Aerospace, Water Resource Research, Remote Sensing, Forests, Atmosphere, Journal of Hydrology, Journal of Hydrometeorology, Electronics, Applied Sciences, Sensors, Sustainability, International Journal of Digital Earth, Environmental Research Letter, Information Fusion, Earth System Science Data_
 
-Peer-reviewed Publications (* indicates my role as the corresponding author.)
+Peer-reviewed Publications
 ======
 15. **Wang, S.***, Guan K.*, Wang, S., Guan, K., Zhang, C., Zhou, Q., Wang, S., Wu, X., Jiang, C., Peng, B., Mei, W., Li, K., Li, Z., Yang, Y., Zhou, W., Ma, Z. 2022. Cross-scale sensing of field-level crop residue fraction and tillage intensity: integrating field photos, airborne hyperspectral imaging, and satellite data. _Remote Sensing of Environment_.
 16. Zhou, Q., Guan, K.*, **Wang, S.***, Jiang, C., Huang, Y., Peng, B., Chen, Z., Wang, S., Hipple, J., Schaefer, D., Qin, Z., Stroebel, S., Coppess, J., Khanna, M., Cai, Y., 2022. Recent rapid increase of cover crop adoption across the U.S. Midwest detected by fusing multi-source satellite data. _Geophysical Research Letter_. https://doi.org/10.1029/2022GL100249
