@@ -49,6 +49,8 @@ _Proceedings of the National Academy of Sciences of the United States of America
 
 Peer-reviewed Publications
 ======
+13. **Wang, S.***, Guan K.*, Zhang, C., Jiang, C., Zhou, Q., Li, K., Qin, Z., Ainsworth, E.A., He, J., Wu, J., Schaefer, D., Gentry, L., Margenot, A., Herzberger, L., Airborne hyperspectral imaging of cover crop growth through radiative transfer process-guided machine learning. _Remote Sensing of Environment_.
+14. Zhou, Q., **Wang, S.***, Liu, N., Townsend, P., Jiang, C., Peng, B., Verhoef, W., Guan, K.* High-performance atmospheric correction of airborne hyperspectral imaging spectroscopy: model intercomparison, key parameter analysis, and machine learning surrogates. _ISPRS Journal of Photogrammetry and Remote Sensing_.
 15. **Wang, S.**, Guan, K., Zhang, C., Zhou, Q., Wang, S., Wu, X., Jiang, C., Peng, B., Mei, W., Li, K., Li, Z., Yang, Y., Zhou, W., Ma, Z. 2022. Cross-scale sensing of field-level crop residue fraction and tillage intensity: integrating field photos, airborne hyperspectral imaging, and satellite data. _Remote Sensing of Environment_.
 16. Zhou, Q., Guan, K., **Wang, S.**, Jiang, C., Huang, Y., Peng, B., Chen, Z., Wang, S., Hipple, J., Schaefer, D., Qin, Z., Stroebel, S., Coppess, J., Khanna, M., Cai, Y., 2022. Recent rapid increase of cover crop adoption across the U.S. Midwest detected by fusing multi-source satellite data. _Geophysical Research Letter_. https://doi.org/10.1029/2022GL100249
 17. Deines, J., Guan, K., Lopez, B., White, C., **Wang, S.**, Lobell, D., 2022. Recent cover crop adoption is associated with small maize and soybean yield losses in the United States. _Global Change Biology_. https://doi.org/10.1111/gcb.16489 
@@ -83,4 +85,4 @@ Peer-reviewed Publications
 46. Liu, S., **Wang, S.**, Wang, Y., Li, M., Huang, M., Peng, G., Xiao, Z., 2014. Exploring the relationship between polar motion and runoff. _Advances in Meteorological Science and Technology_. 4(3):6-12. https://doi.org/10.3969/j.issn.2095-1973.2014.03.001.
 47. **Wang, S.** and LIU, S., 2013. Exploring the relationship between polar motion and a natural river’s runoff based on Granger causality. _IAHS-AISH publication_, 360, pp.131-138. https://dio.org/iahs.info.15559.25-131-138-360-22.
 
-Updated on November 14, 2022
+Updated on November 19, 2022
