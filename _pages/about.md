@@ -51,7 +51,7 @@ Peer-reviewed Publications
 ======
 \* corresponding author
 
-11. Guan, K., Jin, Z., Peng, B., Tang, J., DeLucia, E.H., West, P., Jiang, C., **Wang, S.**, Kim, T., Zhou, W. and Griffis, T., 2023. A scalable framework for quantifying field-level agricultural carbon outcomes. Earth-Science Reviews, p.104462.
+11. Guan, K., Jin, Z., Peng, B., Tang, J., DeLucia, E.H., West, P., Jiang, C., **Wang, S.**, Kim, T., Zhou, W. and Griffis, T., 2023. A scalable framework for quantifying field-level agricultural carbon outcomes. _Earth-Science Reviews_, p.104462. https://doi.org/10.1016/j.earscirev.2023.104462
 12. **Wang, S.**\*, Guan K.\*, Zhang, C., Jiang, C., Zhou, Q., Li, K., Qin, Z., Ainsworth, E.A., He, J., Wu, J., Schaefer, D., Gentry, L., Margenot, A., Herzberger, L., 2023. Airborne hyperspectral imaging of cover crops through radiative transfer process-guided machine learning. _Remote Sensing of Environment_. https://doi.org/10.1016/j.rse.2022.113386 
 13. Zhou, Q., **Wang, S.**\*, Liu, N., Townsend, P., Jiang, C., Peng, B., Verhoef, W., Guan, K.\*, 2023. Towards operational atmospheric correction of airborne hyperspectral imaging spectroscopy: Algorithm evaluation, key parameter analysis, and machine learning emulators. _ISPRS Journal of Photogrammetry and Remote Sensing_. https://doi.org/10.1016/j.isprsjprs.2022.11.016 
 14. **Wang, S.**\*, Guan, K.\*, Zhang, C., Zhou, Q., Wang, S., Wu, X., Jiang, C., Peng, B., Mei, W., Li, K., Li, Z., Yang, Y., Zhou, W., Ma, Z. 2023. Cross-scale sensing of field-level crop residue fraction and tillage intensity: integrating field photos, airborne hyperspectral imaging, and satellite data. _Remote Sensing of Environment_. https://doi.org/10.1016/j.rse.2022.113366 
