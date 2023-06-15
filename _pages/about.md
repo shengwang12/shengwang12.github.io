@@ -15,7 +15,7 @@ In the past years, I have designed and tested operational manned/unmanned airbor
 **Recruitment: We are recruiting highly motivated Ph.D. students and postdocs with full supports in the coming year. Details are available right now**: [*HERE*](https://shengwang12.github.io/files/Jobadvertisement.pdf).
 
 # Research Interest
-Agroecosystem Monitoring, Remote Sensing, Manned/Unmanned Airborne Systems, Imaging Spectroscopy, Machine Learning, Ecosystem Modeling, Radiative Transfer modeling, Eco-hydrology, Regenerative Agriculture
+Sustainability, Conservation science, Manned/Unmanned Airborne Systems, Imaging Spectroscopy, Machine Learning, Ecosystem Modeling, Radiative Transfer modeling, Eco-hydrology, Regenerative Agriculture
 
 Education
 ======
@@ -51,8 +51,9 @@ Peer-reviewed Publications
 ======
 \* corresponding author
 
+11. Guan, K., Jin, Z., Peng, B., Tang, J., DeLucia, E.H., West, P., Jiang, C., **Wang, S.**, Kim, T., Zhou, W. and Griffis, T., 2023. A scalable framework for quantifying field-level agricultural carbon outcomes. Earth-Science Reviews, p.104462.
 12. **Wang, S.**\*, Guan K.\*, Zhang, C., Jiang, C., Zhou, Q., Li, K., Qin, Z., Ainsworth, E.A., He, J., Wu, J., Schaefer, D., Gentry, L., Margenot, A., Herzberger, L., 2023. Airborne hyperspectral imaging of cover crops through radiative transfer process-guided machine learning. _Remote Sensing of Environment_. https://doi.org/10.1016/j.rse.2022.113386 
-13. Zhou, Q., **Wang, S.**\*, Liu, N., Townsend, P., Jiang, C., Peng, B., Verhoef, W., Guan, K.\*, 2023. High-performance atmospheric correction of airborne hyperspectral imaging spectroscopy: model intercomparison, key parameter analysis, and machine learning surrogates. _ISPRS Journal of Photogrammetry and Remote Sensing_. https://doi.org/10.1016/j.isprsjprs.2022.11.016 
+13. Zhou, Q., **Wang, S.**\*, Liu, N., Townsend, P., Jiang, C., Peng, B., Verhoef, W., Guan, K.\*, 2023. Towards operational atmospheric correction of airborne hyperspectral imaging spectroscopy: Algorithm evaluation, key parameter analysis, and machine learning emulators. _ISPRS Journal of Photogrammetry and Remote Sensing_. https://doi.org/10.1016/j.isprsjprs.2022.11.016 
 14. **Wang, S.**\*, Guan, K.\*, Zhang, C., Zhou, Q., Wang, S., Wu, X., Jiang, C., Peng, B., Mei, W., Li, K., Li, Z., Yang, Y., Zhou, W., Ma, Z. 2023. Cross-scale sensing of field-level crop residue fraction and tillage intensity: integrating field photos, airborne hyperspectral imaging, and satellite data. _Remote Sensing of Environment_. https://doi.org/10.1016/j.rse.2022.113366 
 15. Feng, S., Qiu, J., Crow, W.T., Mo, X., Liu, S., **Wang, S.**, Gao, L., Wang, X. and Chen, S., 2023. Improved estimation of vegetation water content and its impact on L-band soil moisture retrieval over cropland. Journal of Hydrology, p.129015. https://doi.org/10.1016/j.jhydrol.2022.129015 
 16. Zhou, Q., Guan, K.\*, **Wang, S.**\*, Jiang, C., Huang, Y., Peng, B., Chen, Z., Wang, S., Hipple, J., Schaefer, D., Qin, Z., Stroebel, S., Coppess, J., Khanna, M., Cai, Y., 2022. Recent rapid increase of cover crop adoption across the U.S. Midwest detected by fusing multi-source satellite data. _Geophysical Research Letter_. https://doi.org/10.1029/2022GL100249
@@ -61,7 +62,6 @@ Peer-reviewed Publications
 19. Wu, J., Ainsworth, E.A., **Wang, S.**, Guan, K., He. J., 2022. Distribution-Informed Neural Networks for Domain Adaptation Regression. _The Thirty-Sixth Annual Conference on Neural Information Processing Systems_ (NeurIPS 2022)
 20. Zhou, W., Guan, K., Peng, B., Margenot, A., Lee, D., Jin, Z., Grant, R., DeLucia, E., Qin, Z., Wander, M., **Wang, S.**, 2022. How does uncertainty of soil organic carbon stock affect cropland carbon budgets and soil carbon credit calculation for the U.S. Midwest? _Geoderma_
 21. Qiu, J., Crow, W.T., **Wang, S**., Dong, J., Li, Y., Garcia, M. and Shangguan, W., 2022. Microwave-based soil moisture improves estimates of vegetation response to drought in China. _Science of The Total Environment_, p.157535. https://doi.org/10.1016/j.scitotenv.2022.157535 
-22. Guan, K., Jin, Z., DeLucia, E.H., West, P., Peng, B., Tang, J., Jiang, C., **Wang, S**., Kim, T., Zhou, W. and Griffis, T., 2022. A roadmap toward scalably quantifying field-level agricultural carbon outcome. https://eartharxiv.org/repository/view/2905/
 23. **Wang, S.**\*, Guan, K.\*, Zhang, C., Lee, D., Margenot, A, J., Ge, Y., Peng, J., Zhou, W., Zhou, Q., and Huang, Y. 2022. Using soil library hyperspectral reflectance and machine learning to predict soil organic carbon: Assessing potential of airborne and spaceborne optical soil sensing. _Remote Sensing of Environment_. https://doi.org/10.1016/j.rse.2022.112914
 24. Potash, E., Guan, K., Margenot, A., Lee, D., Delucia, E., **Wang, S.**, and Jang, C. 2022. How to estimate soil organic carbon stocks of agricultural fields? Perspectives using ex ante evaluation. _Geodema_. https://doi.org/10.1016/j.geoderma.2021.115693
 25. Wu, J., Ainsworth, E.A., **Wang, S**., Guan, K., He. J., 2021. Adaptive Transfer Learning for Plant Phenotyping. MLCAS. https://arxiv.org/abs/2201.05261
@@ -88,4 +88,4 @@ Peer-reviewed Publications
 46. Liu, S., **Wang, S.**, Wang, Y., Li, M., Huang, M., Peng, G., Xiao, Z., 2014. Exploring the relationship between polar motion and runoff. _Advances in Meteorological Science and Technology_. 4(3):6-12. https://doi.org/10.3969/j.issn.2095-1973.2014.03.001.
 47. **Wang, S.** and LIU, S., 2013. Exploring the relationship between polar motion and a natural river’s runoff based on Granger causality. _IAHS-AISH publication_, 360, pp.131-138. https://dio.org/iahs.info.15559.25-131-138-360-22.
 
-Updated on January 20, 2023
+Updated on May 20, 2023
