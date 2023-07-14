@@ -47,7 +47,7 @@ Journal Reviewer
 ======
 _Proceedings of the National Academy of Sciences of the United States of America, Remote Sensing of Environment, Nature Scientific Report, Agricultural and Forest Meteorology, Journal of Experimental Botany, The Plant Journal, Biogeosciences, Precision Agriculture, Ecological Applications, European Journal of Agronomy, European Journal of Remote Sensing, Aerospace, Water Resource Research, Remote Sensing, Forests, Atmosphere, Journal of Hydrology, Journal of Hydrometeorology, Electronics, Applied Sciences, Sensors, Sustainability, International Journal of Digital Earth, Environmental Research Letter, Information Fusion, Earth System Science Data_
 
-Peer-reviewed Publications
+Publications
 ======
 \* corresponding author
 
