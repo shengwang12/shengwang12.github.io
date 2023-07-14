@@ -51,6 +51,8 @@ Peer-reviewed Publications
 ======
 \* corresponding author
 
+9. Potash, E., Guan, K., Margenot, A., Lee, D., Boe, A., Douglass, M, Heaton, E., Jang, C., Jin, V., Li, N., Mitchell, R., Namoi, N., Schmer, M., **Wang, S.**, Zumpf, C., Multi-site Evaluation of Stratified and Balanced Sampling for Estimating Soil Organic Carbon Stocks in Agricultural Fields. _Geoderma_.
+10. Ye, L., Guan, K., Qin, Z., **Wang, S.**, Zhou., W., Peng, B., Grant, R., Tang, J., Hu, T., Jin, Z. Improved quantification of cover crop biomass and ecosystem services through remote sensing based model-data fusion. _Environmental Research Letter_. https://doi.org/10.1088/1748-9326/ace4df 
 11. Guan, K., Jin, Z., Peng, B., Tang, J., DeLucia, E.H., West, P., Jiang, C., **Wang, S.**, Kim, T., Zhou, W. and Griffis, T., 2023. A scalable framework for quantifying field-level agricultural carbon outcomes. _Earth-Science Reviews_, p.104462. https://doi.org/10.1016/j.earscirev.2023.104462
 12. **Wang, S.**\*, Guan K.\*, Zhang, C., Jiang, C., Zhou, Q., Li, K., Qin, Z., Ainsworth, E.A., He, J., Wu, J., Schaefer, D., Gentry, L., Margenot, A., Herzberger, L., 2023. Airborne hyperspectral imaging of cover crops through radiative transfer process-guided machine learning. _Remote Sensing of Environment_. https://doi.org/10.1016/j.rse.2022.113386 
 13. Zhou, Q., **Wang, S.**\*, Liu, N., Townsend, P., Jiang, C., Peng, B., Verhoef, W., Guan, K.\*, 2023. Towards operational atmospheric correction of airborne hyperspectral imaging spectroscopy: Algorithm evaluation, key parameter analysis, and machine learning emulators. _ISPRS Journal of Photogrammetry and Remote Sensing_. https://doi.org/10.1016/j.isprsjprs.2022.11.016 
