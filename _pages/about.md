@@ -51,7 +51,7 @@ Publications
 ======
 \* corresponding author
 
-7. Zheng, H., Zhang, C., Guan, K., Deng, Y., Wang., S., Rhoads, B., Margenot, A., Zhou, S., Wang S.*, 2023. Segment Any Stream: Scalable Water Extent Detection with the Segment Anything Model. _Conference on Neural Information Processing Systems (NeurIPS) Computational Sustainability (CompSust)_. (Accepted)
+7. Zheng, H., Zhang, C., Guan, K., Deng, Y., Wang., S., Rhoads, B., Margenot, A., Zhou, S., **Wang S.***, 2023. Segment Any Stream: Scalable Water Extent Detection with the Segment Anything Model. _Conference on Neural Information Processing Systems (NeurIPS) Computational Sustainability (CompSust)_. (Accepted)
 8. Zhou, Q., **Wang, S.***, Guan, K.. Advancing airborne hyperspectral data processing and applications for sustainable agriculture using RTM-based machine learning. _In IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium_, pp. 1269-1272. IEEE, 2023. https://doi.org/10.1109/IGARSS52108.2023.10283455
 9. Potash, E., Guan, K., Margenot, A., Lee, D., Boe, A., Douglass, M, Heaton, E., Jang, C., Jin, V., Li, N., Mitchell, R., Namoi, N., Schmer, M., **Wang, S.**, Zumpf, C., Multi-site Evaluation of Stratified and Balanced Sampling for Estimating Soil Organic Carbon Stocks in Agricultural Fields. _Geoderma_. https://doi.org/10.1016/j.geoderma.2023.116587
 11. Ye, L., Guan, K., Qin, Z., **Wang, S.**, Zhou., W., Peng, B., Grant, R., Tang, J., Hu, T., Jin, Z. Improved quantification of cover crop biomass and ecosystem services through remote sensing based model-data fusion. _Environmental Research Letter_. https://doi.org/10.1088/1748-9326/ace4df
